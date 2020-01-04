@@ -1,0 +1,3 @@
+algoritmo knn: para calcular por exemplo generos de filmes mais assisitios por um usuario
+ou no caso de imagens do rosto, quais são mais similares
+https://www.youtube.com/watch?v=KBh4vnsCDc4
